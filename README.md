@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yraj1996
+- 👋 Hi, I’m YASH RAJ
 - 👀 I’m interested in ... stories behind data
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...Data science problems
